@@ -26,3 +26,6 @@ npm-debug.log*
 *.xlsx
 *.csv
 ~$*
+
+# fursys-deploy-hub 로컬 메타데이터(올릴 필요 없음)
+.fursys-deploy-hub/

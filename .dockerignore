@@ -1,0 +1,9 @@
+.git
+.env
+.env.*
+.fursys-deploy-hub
+node_modules
+*.xls
+*.xlsx
+*.csv
+README.md
