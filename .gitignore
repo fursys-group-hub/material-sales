@@ -1,0 +1,28 @@
+# 의존성·빌드 결과
+node_modules/
+dist/
+build/
+.cache/
+
+# 비밀 정보 (계정·토큰)
+.env
+.env.*
+!.env.example
+
+# 운영체제·편집기 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# 로그
+*.log
+npm-debug.log*
+
+# 업무 데이터 원본 (수불집계·주거래단가·결과 양식 등은 올리지 않음)
+*.xls
+*.xlsx
+*.csv
+~$*
